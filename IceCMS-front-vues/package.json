@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
-    "axios": "0.18.1",
+    "axios": "0.28.0",
     "core-js": "3.6.5",
     "element-ui": "2.15.12",
     "js-cookie": "2.2.0",
